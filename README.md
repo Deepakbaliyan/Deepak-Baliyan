@@ -1,4 +1,4 @@
-
+  ![l0g0](https://github.com/Deepakbaliyan/Deepak-Baliyan/blob/main/Brown%20and%20White%20Simple%20Linkedin%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Deepak Baliyan</h1>
 <h3 align="center">A passionate Full Stack Software Developer from India</h3>
 
